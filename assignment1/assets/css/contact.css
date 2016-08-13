@@ -1,0 +1,37 @@
+form{
+		margin:40px;
+
+		height:490px;
+	}
+	input{
+		width: 90%;
+		height:35px;
+	 margin-left: 26px ;
+	}
+	.contact,textarea,button{
+		margin:0px 0px 0px 26px;
+		
+	}
+	#box1{
+		height: 550px;
+	}
+	nav{
+		margin-top: 20px;
+	}
+	a{
+		
+		border-right: 0.25px solid ;
+		padding-right: 10px;
+	}
+	#atag{
+
+      border-right: none;
+	}
+	button{
+		font-size:15px;
+		padding:10px;
+		background-color: teal;
+		color:white;
+		font-weight: small;
+
+	}

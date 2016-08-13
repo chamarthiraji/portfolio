@@ -1,0 +1,72 @@
+.portfolio_images , .box{
+	display: inline-block; 
+    float:left;
+}
+.portfolio_images{
+	width:650px;
+	height:860px;
+	background-color: white;
+	margin-left:155px;
+	/*margin-top:5px; */
+	margin-right:40px;
+}
+.boxP{
+	width:270px;
+	height:205px;
+	background-color: pink;
+	position:relative;
+	margin:0px; 
+}
+image{
+	width:270px;
+	height:205px;
+
+}
+.boxSet{
+	
+}
+.box_1{
+	top:13px;
+	left:40px;
+	
+	
+}
+.box_2{
+	top:-190px;
+	left:355px;
+
+}
+.box_3{
+	top:-146px;
+	left:40px;
+
+}
+.box_4{
+	top:-350px;
+	left:355px;
+
+}
+.box_5{
+	top:-305px;
+	left:40px;
+
+}
+ 
+ .image_title{
+ 	
+	background: teal;
+	/* 
+	background-color: #B2A4A1;
+	*/
+	    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 147px;
+    height: 25%;
+    width:100%;
+    margin: 0px;
+    color:white;
+	
+	text-align: center;
+
+}
